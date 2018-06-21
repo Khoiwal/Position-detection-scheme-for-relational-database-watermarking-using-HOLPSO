@@ -1,1 +1,3 @@
-# Position-detection-scheme-for-relational-database-watermarking-using-HOLPSO
+### Particle Swarm Optimization in Java ###
+
+This code implements basic Particle Swarm Optimization (PSO) in Java.
